@@ -64,3 +64,8 @@ Master's Degree in Solar Energy
 Université Savoie Mont Blanc (USMB)
 
 LOCIE Laboratory
+## Dataset
+
+The experimental dataset (`exp.csv`) is not included in this repository because it belongs to the WoodWastePanel project consortium.
+
+To execute the scripts, place the experimental dataset in the same directory as the Python scripts and update the file path if necessary.
